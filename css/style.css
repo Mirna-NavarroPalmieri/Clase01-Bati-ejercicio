@@ -20,11 +20,11 @@ height: 500px;
 background-size: contain;
 background-repeat: no-repeat;
 background-position: center;
-background-image: url(../img/batmanOFF.jpg);
+background-image: url(../img/batmanOFF\ .jpg);
 }
 
 .batman_activo{
-    background-image: url(../img/batmanON.gif) 
+    background-image: url(../img/batmanON\ .gif) 
 }
 
 .bati_boton {
